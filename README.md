@@ -17,7 +17,8 @@
 
 ## 🚀 **À propos de moi**
 
-Je suis un consultant en cybersécurité passionné par la sécurité des systèmes d'information, les tests d'intrusion, et l'analyse de vulnérabilités. Actuellement en alternance chez We Ker, je travaille sur la mise en place de solutions SIEM et l'analyse de réseaux pour renforcer la sécurité des infrastructures IT.
+Depuis mon plus jeune âge, les jeux vidéo ont été une porte d'entrée vers le monde des nouvelles technologies. Cette passion m'a naturellement conduit à découvrir l'univers de la cybersécurité, un domaine qui allie à la fois technicité, créativité et défis intellectuels. Aujourd'hui, je suis profondément passionné par la sécurité informatique, et mon objectif est de devenir **pentester** pour aider les organisations à se protéger contre les cybermenaces.
+
 
 ---
 
